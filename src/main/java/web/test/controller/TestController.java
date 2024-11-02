@@ -18,7 +18,7 @@ public class TestController extends HttpServlet {
 	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		System.out.println("TIA202專題順利！");
+		System.out.println("TIA202專題順利！!");
 	}
 	
 }
